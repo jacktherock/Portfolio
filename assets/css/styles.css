@@ -161,10 +161,10 @@ img {
   background-color: var(--first-color);
 }
 
-/* .nav__logo {
+.nav__logo {
   color: var(--second-color);
   font-family: 'Agustina', sans-serif;
-} */
+}
 
 .nav__toggle {
   color: var(--second-color);
