@@ -163,7 +163,7 @@ img {
 
 .nav__logo {
   color: var(--second-color);
-  font-family: 'Agustina', sans-serif;
+  /* font-family: 'Agustina', sans-serif; */
 }
 
 .nav__toggle {
